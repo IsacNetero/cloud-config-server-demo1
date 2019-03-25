@@ -1,0 +1,1 @@
+Testing getting configuration from a spring cloud config service coupled with a stductured git repository
